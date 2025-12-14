@@ -1,0 +1,50 @@
+body { 
+    background: rgb(201, 206, 236);
+    margin: 0; 
+    padding: 20px;
+}
+h1 { color: rgb(106, 105, 105); 
+    text-align: center;
+}
+p { 
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+    margin: 15px;
+}
+
+.purple {
+    color: rgb(108, 21, 188);
+}
+
+.font p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.plum p {
+    color: rgb(53, 14, 225);
+    font-size: 24px;
+}
+
+img { 
+    border-radius: 16px; 
+    height: 300px;
+}
+
+.content {
+    background-color: red;
+    padding: 15px;
+}
+
+.content2 {
+    background-color: bisque;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.content3 {
+    background-color: white;
+}
